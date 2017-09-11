@@ -1,13 +1,13 @@
-
-body{
-  background-color: #3E9E70;
-  color: white;
+body {
+    background-color: #073642;
+    color: #eee8d5;
 }
 
-h1, h2{
-  text-transform: uppercase;
+h1,
+h2 {
+    text-transform: uppercase;
 }
 
-a{
-  color: #EDAB4A;
+a {
+    color: #EDAB4A;
 }
